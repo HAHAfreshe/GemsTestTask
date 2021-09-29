@@ -1,96 +1,49 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kiril\\source\\repos\\Задание первое\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj": {}
+    "E:\\git\\GemsTestTask\\FirstTask\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kiril\\source\\repos\\Задание первое\\quadratic_equation\\quadratic_equation.csproj": {
-      "version": "1.0.0",
+    "E:\\git\\GemsTestTask\\FirstTask\\QuadraticEquation\\QuadraticEquation.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiril\\source\\repos\\Задание первое\\quadratic_equation\\quadratic_equation.csproj",
-        "projectName": "quadratic_equation",
-        "projectPath": "C:\\Users\\kiril\\source\\repos\\Задание первое\\quadratic_equation\\quadratic_equation.csproj",
-        "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kiril\\source\\repos\\Задание первое\\quadratic_equation\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
+        "projectUniqueName": "E:\\git\\GemsTestTask\\FirstTask\\QuadraticEquation\\QuadraticEquation.csproj",
+        "projectName": "QuadraticEquation",
+        "projectPath": "E:\\git\\GemsTestTask\\FirstTask\\QuadraticEquation\\QuadraticEquation.csproj"
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            },
-            "System.Security.Permissions": {
-              "target": "Package",
-              "version": "[4.7.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
-        }
+        "net472": {}
       }
     },
-    "C:\\Users\\kiril\\source\\repos\\Задание первое\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj": {
+    "E:\\git\\GemsTestTask\\FirstTask\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiril\\source\\repos\\Задание первое\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj",
+        "projectUniqueName": "E:\\git\\GemsTestTask\\FirstTask\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj",
         "projectName": "TestingQuadraticEquation",
-        "projectPath": "C:\\Users\\kiril\\source\\repos\\Задание первое\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj",
+        "projectPath": "E:\\git\\GemsTestTask\\FirstTask\\TestingQuadraticEquation\\TestingQuadraticEquation.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kiril\\source\\repos\\Задание первое\\TestingQuadraticEquation\\obj\\",
+        "outputPath": "E:\\git\\GemsTestTask\\FirstTask\\TestingQuadraticEquation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\VS\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net472": {
+            "targetAlias": "net472",
             "projectReferences": {
-              "C:\\Users\\kiril\\source\\repos\\Задание первое\\quadratic_equation\\quadratic_equation.csproj": {
-                "projectPath": "C:\\Users\\kiril\\source\\repos\\Задание первое\\quadratic_equation\\quadratic_equation.csproj"
+              "E:\\git\\GemsTestTask\\FirstTask\\QuadraticEquation\\QuadraticEquation.csproj": {
+                "projectPath": "E:\\git\\GemsTestTask\\FirstTask\\QuadraticEquation\\QuadraticEquation.csproj"
               }
             }
           }
@@ -102,37 +55,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net472": {
+          "targetAlias": "net472",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.4.0, )"
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.15.1, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[3.16.1, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

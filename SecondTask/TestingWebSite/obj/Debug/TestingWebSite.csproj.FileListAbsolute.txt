@@ -1,0 +1,11 @@
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\bin\Debug\TestingWebSite.dll
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\bin\Debug\TestingWebSite.pdb
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\bin\Debug\nunit.framework.dll
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\bin\Debug\WebDriver.dll
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\bin\Debug\nunit.framework.xml
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\bin\Debug\WebDriver.xml
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\obj\Debug\TestingWebSite.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\obj\Debug\TestingWebSite.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\obj\Debug\TestingWebSite.csproj.CopyComplete
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\obj\Debug\TestingWebSite.dll
+C:\Users\kiril\source\repos\SecondTask\TestingWebSite\obj\Debug\TestingWebSite.pdb

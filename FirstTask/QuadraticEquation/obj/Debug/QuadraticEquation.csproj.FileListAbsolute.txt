@@ -1,0 +1,10 @@
+E:\работа над ошибками\FirstTask\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.AssemblyReference.cache
+E:\работа над ошибками\FirstTask\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+E:\работа над ошибками\FirstTask\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+E:\работа над ошибками\FirstTask\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+E:\работа над ошибками\FirstTask\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+E:\работа над ошибками\FirstTask\QuadraticEquation\bin\Debug\nunit.framework.dll
+E:\работа над ошибками\FirstTask\QuadraticEquation\bin\Debug\nunit.framework.xml
+E:\работа над ошибками\FirstTask\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CopyComplete
+E:\работа над ошибками\FirstTask\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+E:\работа над ошибками\FirstTask\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

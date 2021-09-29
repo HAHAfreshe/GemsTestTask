@@ -1,0 +1,38 @@
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\NUnit3.TestAdapter.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\NUnit3.TestAdapter.pdb
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\nunit.engine.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\nunit.engine.api.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\TestingQuadraticEquation.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\TestingQuadraticEquation.pdb
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\nunit.framework.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\QuadraticEquation.exe
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\QuadraticEquation.pdb
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\bin\Debug\net472\QuadraticEquation.exe.config
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.csproj.AssemblyReference.cache
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.AssemblyInfoInputs.cache
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.AssemblyInfo.cs
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.csproj.CoreCompileInputs.cache
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.csproj.CopyComplete
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.dll
+E:\работа над ошибками\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.pdb
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\NUnit3.TestAdapter.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\NUnit3.TestAdapter.pdb
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\nunit.engine.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\nunit.engine.api.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\TestingQuadraticEquation.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\TestingQuadraticEquation.pdb
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\nunit.framework.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\QuadraticEquation.exe
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\QuadraticEquation.pdb
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\bin\Debug\net472\QuadraticEquation.exe.config
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.csproj.AssemblyReference.cache
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.AssemblyInfoInputs.cache
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.AssemblyInfo.cs
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.csproj.CoreCompileInputs.cache
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.csproj.CopyComplete
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.dll
+E:\git\GemsTestTask\FirstTask\TestingQuadraticEquation\obj\Debug\net472\TestingQuadraticEquation.pdb
